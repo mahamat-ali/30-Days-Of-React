@@ -4,9 +4,8 @@ export const buttonStyles = {
   padding: 10,
   border: 'none',
   borderRadius: 5,
-  margin: 3,
   cursor: 'pointer',
   fontSize: 22,
   color: 'white',
-  margin: '0 auto',
+  // margin: '0 auto',
 }
